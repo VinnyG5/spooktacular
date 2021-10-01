@@ -1,0 +1,25 @@
+{
+	"name": "Death The Kidd",
+	"stats": {
+		"hp": 300,
+		"ac": 10,
+		"speed": 200
+	},
+	"abilities": {
+		"strength": 400,
+		"dexterity": 200,
+		"constitution": 50,
+		"intelligence": 100,
+		"wisdom": 100,
+		"charisma": 100
+	},
+	"attack": {
+		"name": "Death Cannon",
+		"damage": 300
+	},
+	"special": {
+		"name": "Lines Of Sanzu",
+		"description": "3 Light Rings connects around Kids head buffing his stats making him stronger",
+		"effect": "+300 stats to everything"
+	}
+}
