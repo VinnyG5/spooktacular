@@ -1,0 +1,25 @@
+{
+	"name": "Ashura",
+	"stats": {
+		"hp": 1000,
+		"ac": 100,
+		"speed": 500
+	},
+	"abilities": {
+		"strength": 700,
+		"dexterity": 300,
+		"constitution": 100,
+		"intelligence": 10,
+		"wisdom": 10,
+		"charisma": 0
+	},
+	"attack": {
+		"name": "Pressure",
+		"damage": 400
+	},
+	"special": {
+		"name": "Madness Wavelength",
+		"description": "Ashura possesses the persons mind and soul flowing madness into them",
+		"effect": "The person is consumed in Fear and Madness making them lose control of themselves unable to do anything"
+	}
+}
